@@ -9,3 +9,17 @@ Our research aims to find whether payment methods have an impact on fare pricing
 ### Hypothesis Testing: Research Question
 
 "Which payment method (cash vs. credit card) results in higher average fare amounts for NYC cab drivers without compromising customer satisfaction?"
+
+### Techniques applied
+
+##### Format Standardization
+Convert date formats for consistent analysis
+
+##### Outlier Detection
+Apply IQR method to eliminate statistical anomalies
+
+##### Quality Control
+Remove null values, duplicates, and negative entries
+
+##### Final Dataset
+Refined from 38 million to 11 million clean, analyzable records
